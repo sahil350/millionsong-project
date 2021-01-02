@@ -35,7 +35,7 @@ The following steps are performed to transform the raw songs and logs JSON and s
 
 ## Usage
 
-The execute the project run
+To execute the project run
 ```python
 python create_tables.py
 python etl.py
